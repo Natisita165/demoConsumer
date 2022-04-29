@@ -1,0 +1,4 @@
+com\example\demoConsumer\demoConsumer\RabbitMqConfig.class
+DTO\MessageDto.class
+com\example\demoConsumer\demoConsumer\consumerListener.class
+com\example\demoConsumer\demoConsumer\DemoConsumerApplication.class
